@@ -13,3 +13,9 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 700 bold;
 }
+
+.head{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

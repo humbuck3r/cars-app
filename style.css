@@ -4,5 +4,8 @@
     padding: 0;
 }
 :root {
-  
+  --red: #ff1616;
+  --orange: #f3bf03;
+  --black: #000;
+  --white: #fff;
 }
